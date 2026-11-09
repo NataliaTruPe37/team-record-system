@@ -41,8 +41,8 @@ const teams: Team[] = [
   { teamName: "Lèpuente", schoolName: "Colegio Mochis" },
   { teamName: "ARCOVA", schoolName: "Prepa Anahuac Culiacan y Colegio chapultepec sur" },
   { teamName: "Lv27 VPO", schoolName: "Liceo del Valle" },
-  { teamName: "Toffolos", schoolName: "Liceo del valle" },
-  { teamName: "Los arquis", schoolName: "Liceo del valle" },
+  { teamName: "Toffolos", schoolName: "Liceo del Valle" },
+  { teamName: "Los arquis", schoolName: "Liceo del Valle" },
   { teamName: "Puente KLV", schoolName: "Colegio Cervantes Costa Rica" },
   { teamName: "ARVIZU", schoolName: "Universidad del Valle de México" },
   { teamName: "Baries", schoolName: "Liceo Del Valle" },
@@ -50,7 +50,8 @@ const teams: Team[] = [
   { teamName: "Matadita", schoolName: "Colegio Los Altos" },
   { teamName: "Arco", schoolName: "Instituto Chapultepec sur" },
   { teamName: "Loading point", schoolName: "UNIVA" },
-  { teamName: "Equipo rialto", schoolName: "Colegio Cervantes Costa Rica" }
+  { teamName: "Equipo rialto", schoolName: "Colegio Cervantes Costa Rica" },
+  { teamName: "La celestial", schoolName: "Liceo del Valle" }
 ];
 
 export default teams;
